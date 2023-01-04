@@ -1,0 +1,5 @@
+INFO    2022-12-05 18:20:58,681 [main] com.BaseClasses.Baseclass  - Test execution started
+INFO    2022-12-05 18:21:00,535 [main] com.BaseClasses.Baseclass  - Chrome Browser Launched
+INFO    2022-12-05 18:21:02,321 [main] com.BaseClasses.Baseclass  - Navigated to : null
+INFO    2022-12-05 18:21:04,880 [main] com.BaseClasses.Baseclass  - Clicking on :GmailLink_XPATH
+INFO    2022-12-05 18:21:05,100 [main] com.BaseClasses.Baseclass  - Clicking on :Email_CSS
